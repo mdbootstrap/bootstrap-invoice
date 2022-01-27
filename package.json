@@ -1,25 +1,31 @@
 {
-  "name": "bootstrap-avatars",
-  "version": "1.0.4",
-  "description": "Responsive Avatars built with Bootstrap 5. Various templates like a circle avatar, square, inside the navbar, carousel, as a testimonial, profile and many more.",
-  "main": "profile.html",
+  "name": "bootstrap-invoice",
+  "version": "1.0.0",
+  "description": "Invoices Templates built with Bootstrap 5. Various examples like Simple invoice, company invoice, invoice with images and many more.",
+  "main": "basic.html",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/mdbootstrap/bootstrap-avatars.git"
+    "url": "git+https://github.com/mdbootstrap/bootstrap-invoice.git"
   },
   "keywords": [
     "bootstrap",
-    "avatar",
+    "template",
     "bootstrap5",
-    "circle-image-view"
+    "invoice",
+    "invoice-template",
+    "bootstrap5-template",
+    "company-invoice",
+    "bootstrap-invioce-logo",
+    "bootstrap-invioce-products",
+    "bootstrap-invioce-template"
   ],
   "author": "mdbootstrap",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/mdbootstrap/bootstrap-avatars/issues"
+    "url": "https://github.com/mdbootstrap/bootstrap-invoice/issues"
   },
-  "homepage": "https://mdbootstrap.com/docs/standard/extended/avatar/"
+  "homepage": "https://mdbootstrap.com/docs/standard/extended/bootstrap-invoice/"
 }
